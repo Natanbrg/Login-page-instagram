@@ -104,11 +104,11 @@
 
  }
  .app-donwload:nth-child(1){
-   background-image: url(/img/apple-button.png);
+   background-image: url(img/apple-button.png);
 
  }
  .app-donwload:nth-child(2){
-   background-image: url(/img/googleplay-button.png);
+   background-image: url(img/googleplay-button.png);
  }
 
 
